@@ -1,3 +1,7 @@
+% MoCap Animate
+% Paul Buser (2022)
+% The MCT for Matlab had very slow animation, so I made my own.
+
 clear;
 
 fp = 'walk_example.c3d';
